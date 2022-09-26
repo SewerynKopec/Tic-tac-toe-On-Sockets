@@ -1,7 +1,6 @@
 # Authors
 [Julian H.](https://github.com/Nailu776)
 [Seweryn K.](https://github.com/SewerynKopec)
-Seweryn Kopec
 
 # Opis projektu
 Gra dla mobilnych bezprzewodowych sieci ad-hoc.
