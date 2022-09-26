@@ -1,5 +1,7 @@
-# 2022_II_ST_PS
-Repozytorium github przeznaczone na przedmiot Programowanie Sieciowe (PS) na drugim stopniu studiów.
+# Authors
+[Julian H.](https://github.com/Nailu776)
+[Seweryn K.](https://github.com/SewerynKopec)
+Seweryn Kopec
 
 # Opis projektu
 Gra dla mobilnych bezprzewodowych sieci ad-hoc.
