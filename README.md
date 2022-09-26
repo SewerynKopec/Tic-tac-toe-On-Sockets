@@ -1,5 +1,5 @@
 # Authors
-[Julian H.](https://github.com/Nailu776)
+[Julian H.](https://github.com/Nailu776).
 [Seweryn K.](https://github.com/SewerynKopec)
 
 # Opis projektu
